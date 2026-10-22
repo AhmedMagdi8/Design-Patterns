@@ -18,7 +18,7 @@ class Tea extends HotDrink
 }
 
 class Coffee extends HotDrink
-{
+{1
   consume()
   {
     console.log(`This coffee is delicious!`);
